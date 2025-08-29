@@ -1,2 +1,2 @@
-# task1
+# SMS Classifier
 SMS Spam Detection in python
